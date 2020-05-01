@@ -8,8 +8,11 @@ _Here is the overall looking:_
 **II. Interactive Functions**
 - **_Airports Information_**
 A popup window is available in the map to show the general information about the airport that was clicked.
+![](img/airport_info.png)
+
 - **_State-Level Airports Stats._**
 A popup window is avaiable in the map when users click on the state to see the statistics of airports within the selected state.
+![](img/state_airport.png)
 
 **III. Libraries**
 - https://unpkg.com/leaflet@1.3.1/dist/leaflet.css
